@@ -1,4 +1,4 @@
-Hello everyone, this is Joshita.
+Hello everyone, this is Shikha sharma.
 
 I've been working on a React project that utilizes hooks and JSX. The project focuses on creating a photo gallery, allowing users to easily view online photos in a seamless manner.
 
